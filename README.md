@@ -7,14 +7,13 @@
 
 ---
 
-CS undergrad at **University of Dhaka**. I build full-stack web apps, train LLMs at Scale AI & GenMorphics, and spend weekends breaking things in CTFs.
+CS undergrad at **University of Dhaka**. I build full-stack web apps, train LLMs at Scale AI & GenMorphics, and Love to play football and making video.
 
 ```python
 walid = {
-    "currently":  ["Scale AI – L10 Reviewer & Coder", "GenMorphics – AI Trainer"],
     "studying":   "B.Sc. Computer Science @ University of Dhaka",
-    "interests":  ["Full Stack Dev", "Cybersecurity", "Competitive Programming"],
-    "hobbies":    ["CTF", "Football", "Reading"],
+    "interests":  ["Full Stack Dev", "AI Enthusiast", "Competitive Programming"],
+    "hobbies":    ["Traveling", "Football", "making tutorial"],
 }
 ```
 
